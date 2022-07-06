@@ -1,4 +1,10 @@
-h1, h2, h3, p, ul,figcaption, ol{text-align: center;}
+h1, h2, h3, p, ul,figcaption, ol{
+  text-align: center;
+}
+
+body{
+  background-color: Aqua;
+}
 
 img {
   display: block;
